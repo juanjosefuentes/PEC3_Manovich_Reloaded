@@ -1,8 +1,7 @@
- <link rel="stylesheet" href="CSS/retro.css"> 
+
 
  <h1 style="border:0;margin:0;padding:0; background-image:URL(image/fondo.jpg); color:black;     
     zoom: 1.3;">PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación</h1>
-
 
 <h2> ¿Que es la Hibridación de Medios?</h2>
 
@@ -14,10 +13,10 @@ Un ejemplo de este tipo de videojuegos es [<span style="color:orange">Quantum Br
 Una vez visto el concepto de hibridación y unos ejemplos que creo son bastante representativos del concepto de hibridación de Manovich intentare demostrar el concepto de hibridación en dos casos particulares con las gafas de Manovich.
 
  <h3>Caso 1. The Backrooms (Found Footage). </h3>
-
+ <p align="center">
+<img src="image/Backrooms_mod.jpg"  width="60%" height="30%">
  
-<div class="inner-wow">    
- </div>
+ </p>
     
 
     
@@ -40,25 +39,10 @@ Para concluir en una reciente entrevista *Lomeña, Andrés. (2020). El mundo dig
  
 Pues en este caso ocurre lo mismo que comenta Manovich, podemos presenciar cómo una historia se expande y toma forma gracias a la colaboración de comunidades de creadores, que generan una historia comunitaria retroalimentada y en constante evolución.
 <details>
-    <summary><span>The Backrooms (Found Footage) Video completo</span>  </summary> 
-    
-<div>
-<p style = 'text-align:center;padding:0px;margin:45px;'>
-<iframe width="600" height = "420"
-src="https://www.youtube.com/watch?v=H4dGpz6cnHo">
- <footer style="height: 7em">
-    </footer>
-</iframe>
- 
- [![Watch the video](https://www.youtube.com/watch?v=H4dGpz6cnHo))
-<h2 style = 'text-align:center;font-size: 9px;border:0;margin:0'> The Backrooms (Found Footage) Kane Pixels </h2>
+    <summary><span>The Backrooms (Found Footage) Video completo</span>  </summary>   
+<video src="https://user-images.githubusercontent.com/16564273/125283630-9845d180-e2e6-11eb-8b7d-f30a8f2eae8a.mp4" data-canonical-src="https://user-images.githubusercontent.com/16564273/125283630-9845d180-e2e6-11eb-8b7d-f30a8f2eae8a.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-     
-</div>
-
-</p>
-
-
+  </video>
 </details>
 
 
