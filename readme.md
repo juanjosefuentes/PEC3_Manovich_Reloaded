@@ -1,7 +1,6 @@
+<p dir="auto"><a href="image/fondo.jpg" rel="nofollow"><img src="image/fondo.jpg" alt="Imagen de fondo completa receptiva" data-canonical-src=image/fondo.jpg" style="max-width: 100%;"> <h1 style="border:0;margin:0;padding:0; background-image:URL(image/fondo.jpg); color:black;     
+    zoom: 1.3;">PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación</h1></a></p>
 
-
- <h1 style="border:0;margin:0;padding:0; background-image:URL(image/fondo.jpg); color:black;     
-    zoom: 1.3;">PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación</h1>
 
 <h2> ¿Que es la Hibridación de Medios?</h2>
 
