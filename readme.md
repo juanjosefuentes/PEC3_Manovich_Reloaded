@@ -21,10 +21,12 @@ Un ejemplo de este tipo de videojuegos es [<span style="color:orange">Quantum Br
  </p>
 
 “Creepypasta” es un término que se utiliza para describir historias de terror, leyendas urbanas o narrativas de horror que se difunden en línea. Estas historias suelen ser ficticias y se comparten a través de plataformas como foros, redes sociales, blogs o sitios web especializados en este tipo de contenido.
- <p align="center"> </p>
+ 
 La hibridación ocurre en la mezcla de elementos narrativos y estilísticos del creepypasta original con la estética y el formato característicos del género "found footage".
 
-También podemos ver hibridación en las dinámicas de creación y consumo de contenido, así como la formación de comunidades en torno a esta forma de expresión tanto de fanáticos de este submundo como creadores de contenido, aquí se puede ver como las redes sociales con el feedback de los usuarios, han expandido la historia original a través de ilustraciones, adaptaciones de video y otros medios. Esta participación activa y la creación de contenido adicional basado en el creepypasta también pueden considerarse una forma de hibridación, ya que fusiona la historia original con nuevas expresiones artísticas y medios de comunicación. 
+También podemos ver hibridación en las dinámicas de creación y consumo de contenido, así como la formación de comunidades en torno a esta forma de expresión tanto de fanáticos de este submundo como creadores de contenido, aquí se puede ver como las redes sociales con el feedback de los usuarios, han expandido la historia original a través de ilustraciones, adaptaciones de video y otros medios.
+
+Esta participación activa y la creación de contenido adicional basado en el creepypasta también pueden considerarse una forma de hibridación, ya que fusiona la historia original con nuevas expresiones artísticas y medios de comunicación. 
 
 Al presentar "The Backrooms" en formato de "found footage", se puede generar una mayor sensación de inmersión y realismo para los espectadores. El uso de imágenes de baja calidad, sonido ambiente perturbador y otros elementos característicos del género contribuye a la experiencia y puede intensificar el impacto emocional en comparación con la simple narración escrita del creepypasta. 
 
