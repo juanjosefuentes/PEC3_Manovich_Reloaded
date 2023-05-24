@@ -1,5 +1,4 @@
- <link rel="stylesheet" href="CSS/retro.css">
-  
+ <link rel="stylesheet" href="CSS/retro.css"> 
 
  <h1 style="border:0;margin:0;padding:0; background-image:URL(image/fondo.jpg); color:black;     
     zoom: 1.3;">PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación</h1>
