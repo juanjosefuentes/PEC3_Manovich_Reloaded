@@ -60,11 +60,14 @@ Otro aspecto de hibridación en Chamilo es su capacidad para integrar diferentes
 
 El software incluye características de interacción social, como foros de discusión, chat en vivo y herramientas de colaboración. Estas funcionalidades permiten a los estudiantes y profesores interactuar y comunicarse en un entorno en línea, fusionando elementos de la comunicación interpersonal con el entorno digital.
 
-Chamilo LMS permite a los usuarios personalizar la experiencia de aprendizaje según sus necesidades y preferencias. Manovich (2013) ha discutido ampliamente sobre el concepto de hibridación en relación con la fusión de diferentes elementos o tecnologías para crear algo nuevo y mejorado. Esto implica la combinación de diferentes elementos y recursos de aprendizaje para adaptarse a las características individuales de cada estudiante, lo cual se puede considerar como una forma de hibridación en la creación de un entorno de aprendizaje personalizado. 
+Manovich (2013) ha discutido ampliamente sobre el concepto de hibridación en relación con la fusión de diferentes elementos o tecnologías para crear algo nuevo y mejorado. Chamilo LMS permite a los usuarios personalizar la experiencia de aprendizaje según sus necesidades y preferencias. Esto implica la combinación de diferentes elementos y recursos de aprendizaje para adaptarse a las características individuales de cada estudiante, lo cual se puede considerar como una forma de hibridación en la creación de un entorno de aprendizaje personalizado. 
+
+
 
 Chamilo LMS aporta una interfaz clara sencilla desde la instalación lo que favorece el acceso a herramientas de LMS para todos los públicos, sin necesidad de depender de un programador para parametrizar las herramientas. Esta sencillez es tambien un rasgo de hibridación. 
 
-La hibridación implica la fusión de diferentes elementos o la combinación de diferentes tecnologías para crear algo nuevo y mejorado. Chamilo combina la simplicidad de uso con las funcionalidades avanzadas de un sistema de gestión del aprendizaje. Esta combinación permite que una amplia variedad de usuarios, independientemente de sus habilidades técnicas, puedan aprovechar las herramientas de LMS y participar en experiencias de aprendizaje en línea.
+
+Chamilo combina la simplicidad de uso con las funcionalidades avanzadas de un sistema de gestión del aprendizaje. Esta combinación permite que una amplia variedad de usuarios, independientemente de sus habilidades técnicas, puedan aprovechar las herramientas de LMS y participar en experiencias de aprendizaje en línea.
   
   <details>
     <summary>Interfaz Chamilo</summary> 
