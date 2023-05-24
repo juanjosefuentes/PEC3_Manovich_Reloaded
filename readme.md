@@ -33,9 +33,8 @@ En su obra "*El software toma el mando*", de Lev Manovich comenta una obra llama
  <div>
 <p style = 'text-align:center;'>
 <img src="image/mostruo2.jpg" style="padding:40px;"  alt="entidades" data-canonical-src="image/adorno-miedo.png"  width="20%" height="30%">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="image/mostruo3.jpg" style="padding:40px;"  alt="entidades" data-canonical-src="image/adorno-miedo.png"  width="30%" height="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
  <img src="image/adorno-miedo.png" alt="entidades" data-canonical-src="image/adorno-miedo.png"  width="20%" height="30%" >
 </p>
 </div>
@@ -91,6 +90,7 @@ Estos casos ejemplifican cómo la hibridación impulsa la innovación y la creat
 
 <h2>Referencias adicionales</h2>
 
+[<span>Pixels, K. (2022). *The Backrooms (Found Footage)* . Recuperado de https://www.youtube.com/watch?v=H4dGpz6cnHo </span>](https://www.youtube.com/watch?v=H4dGpz6cnHo)
 
 [<span>Brooker, W. (2019). Black Mirror: Bandersnatch . Netflix</span>](https://www.youtube.com/watch?v=VNw9DAwp2Kk)
 
