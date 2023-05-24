@@ -32,11 +32,10 @@ En su obra "*El software toma el mando*", de Lev Manovich comenta una obra llama
 
  <div>
 <p style = 'text-align:center;'>
- 
+<img src="image/mostruo2.jpg" alt="entidades" data-canonical-src="image/adorno-miedo.png"  width="20%" height="30%">
  <img src="image/adorno-miedo.png" alt="entidades" data-canonical-src="image/adorno-miedo.png"  width="20%" height="30%">
 </p>
- <p>
-  </p>
+  
 </div>
 Para concluir en una reciente entrevista *Lomeña, Andrés. (2020). El mundo digital según Lev Manovich: Una entrevista larga y duradera a este visionario*. En esta entrevista introduce un nuevo concepto de “escala” y comenta en la entrevista que:
  <blockquote>La nueva escala de la cultura se manifiesta tanto de forma online como en el mundo físico</blockquote>
