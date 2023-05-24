@@ -1,4 +1,4 @@
-<p dir="auto"><a href="image/fondo4.png" rel="nofollow"><img src="image/fondo4.png" alt="Imagen de fondo completa receptiva" data-canonical-src=image/fondo.jpg" style="max-width: 100%;"> </a></p>
+<p dir="auto"><a href="image/fondo4.png" rel="nofollow"><img src="image/fondo4.png" alt="background-manovich" data-canonical-src=image/fondo.jpg" style="max-width: 100%;"> </a></p>
 
 
 <h2> ¿Que es la Hibridación de Medios?</h2>
@@ -8,15 +8,17 @@ Para empezar, es imprescindible introducir el [<span style="color:orange">concep
 Un ejemplo destacado de este concepto es la película [<span style="color:orange">Bandersnatch (2018)</span>](https://www.youtube.com/watch?v=VNw9DAwp2Kk), que incorpora elementos interactivos que transforman al espectador de un sujeto pasivo, en un participante activo en la construcción de la historia. Asimismo, en los videojuegos se utilizan cinemáticas estratégicamente para brindar coherencia narrativa, permitiendo al jugador experimentar la trama de manera activa asumiendo el papel protagonista desde la perspectiva de un actor, inmerso en la historia.
 
 Un ejemplo de este tipo de videojuegos es [<span style="color:orange">Quantum Break</span>](https://www.xbox.com/es-ES/games/store/quantum-break/9nblggh6h0rv), desarrollado por Remedy Entertainment y lanzado en 2016 (Remedy Entertainment, 2016).
-Una vez visto el concepto de hibridación y unos ejemplos que creo son bastante representativos del concepto de hibridación de Manovich intentare demostrar el concepto de hibridación en dos casos particulares con las gafas de Manovich.
+
+ Una vez visto el concepto de hibridación y unos ejemplos que creo son bastante representativos del concepto de hibridación de Manovich intentare demostrar el concepto de hibridación en dos casos particulares con las gafas de Manovich.
 
  <h3>Caso 1. The Backrooms (Found Footage). </h3>
  
- [![The Backrooms (Found Footage)](image/gif-video.gif)](https://www.youtube.com/watch?v=H4dGpz6cnHo "The Backrooms (Found Footage)")
- 
-Antes de adentrarnos en este caso, es importante proporcionar una explicación sobre los conceptos de "*found footage*" y "*creepypasta*".
+ Antes de adentrarnos en este caso, es importante proporcionar una explicación sobre los conceptos de "*found footage*" y "*creepypasta*". El género de "found footage" (metraje encontrado) se refiere a películas o videos que pretenden ser grabaciones reales y documentales descubiertos después de un evento sobrenatural o perturbador. Estos videos suelen presentar imágenes de baja calidad, cámara temblorosa y una estética amateur para aumentar la sensación de realismo.
 
-El género de "found footage" (metraje encontrado) se refiere a películas o videos que pretenden ser grabaciones reales y documentales descubiertos después de un evento sobrenatural o perturbador. Estos videos suelen presentar imágenes de baja calidad, cámara temblorosa y una estética amateur para aumentar la sensación de realismo.
+  <p align="center">
+ <a href="https://www.youtube.com/watch?v=H4dGpz6cnHo" alt="The Backrooms (Found Footage)"><img src="image/gif-video.gif" alt="background-manovich" data-canonical-src=image/fondo.jpg" style="max-width: 100%;"></a>
+ 
+ </p>
 
 “Creepypasta” es un término que se utiliza para describir historias de terror, leyendas urbanas o narrativas de horror que se difunden en línea. Estas historias suelen ser ficticias y se comparten a través de plataformas como foros, redes sociales, blogs o sitios web especializados en este tipo de contenido.
 
