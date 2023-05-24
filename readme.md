@@ -13,13 +13,10 @@ Un ejemplo de este tipo de videojuegos es [<span style="color:orange">Quantum Br
 Una vez visto el concepto de hibridación y unos ejemplos que creo son bastante representativos del concepto de hibridación de Manovich intentare demostrar el concepto de hibridación en dos casos particulares con las gafas de Manovich.
 
  <h3>Caso 1. The Backrooms (Found Footage). </h3>
- <p align="center">
- <img src="image/gif-video.gif"  width="50%" height="50%">
- 
- </p>
-    
 
     
+[![The Backrooms (Found Footage)](image/gif-video.gif)](https://www.youtube.com/watch?v=H4dGpz6cnHo "The Backrooms (Found Footage)")
+  
 Antes de adentrarnos en este caso, es importante proporcionar una explicación sobre los conceptos de "*found footage*" y "*creepypasta*".
 
 El género de "found footage" (metraje encontrado) se refiere a películas o videos que pretenden ser grabaciones reales y documentales descubiertos después de un evento sobrenatural o perturbador. Estos videos suelen presentar imágenes de baja calidad, cámara temblorosa y una estética amateur para aumentar la sensación de realismo.
@@ -41,6 +38,7 @@ Pues en este caso ocurre lo mismo que comenta Manovich, podemos presenciar cómo
 <details>
     <summary><span>The Backrooms (Found Footage) 12 seg del video</span>  </summary>   
     <img src="image/gif-video.gif"  width="60%" height="30%">
+ [![IMAGE ALT TEXT HERE]()](https://www.youtube.com/watch?v=H4dGpz6cnHo))
 </details>
 
 
