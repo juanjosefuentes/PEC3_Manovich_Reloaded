@@ -97,6 +97,7 @@ Estos casos ejemplifican cómo la hibridación impulsa la innovación y la creat
 [<span>Brooker, W. (2019). Black Mirror: Bandersnatch . Netflix</span>](https://www.youtube.com/watch?v=VNw9DAwp2Kk)
 
 [<span>Lislegaard, A. (2006). Crystal World</span>](https://www.youtube.com/watch?v=CqNV28AK894)
+[<span>Comunidad hispana de backrooms http://es-backrooms-wiki.wikidot.com/</span>](http://es-backrooms-wiki.wikidot.com/)
 
 <h2>Atribuciones</h2>
 
