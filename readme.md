@@ -1,4 +1,4 @@
-<p dir="auto"><a href="image/fondo4.png" rel="nofollow"><img src="image/fondo4.png" alt="background-manovich" data-canonical-src=image/fondo.jpg" style="max-width: 100%;"> </a></p>
+<p dir="auto"><a href="image/fondo4.png" rel="nofollow"><img src="image/fondo4.png" alt="background-manovich" data-canonical-src="image/fondo.jpg" style="max-width: 100%;"> </a></p>
 
 
 <h2> ¿Que es la Hibridación de Medios?</h2>
@@ -16,12 +16,12 @@ Un ejemplo de este tipo de videojuegos es [<span style="color:orange">Quantum Br
  Antes de adentrarnos en este caso, es importante proporcionar una explicación sobre los conceptos de "*found footage*" y "*creepypasta*". El género de "found footage" (metraje encontrado) se refiere a películas o videos que pretenden ser grabaciones reales y documentales descubiertos después de un evento sobrenatural o perturbador. Estos videos suelen presentar imágenes de baja calidad, cámara temblorosa y una estética amateur para aumentar la sensación de realismo.
 
   <p align="center">
- <a href="https://www.youtube.com/watch?v=H4dGpz6cnHo" alt="The Backrooms (Found Footage)"><img src="image/gif-video.gif" alt="background-manovich" data-canonical-src=image/fondo.jpg" style="max-width: 100%;"></a>
+ <a href="https://www.youtube.com/watch?v=H4dGpz6cnHo" alt="The Backrooms (Found Footage)"><img src="image/gif-video.gif" alt="background-manovich" data-canonical-src="image/gif-video.gif" style="max-width: 100%;"></a>
  
  </p>
 
 “Creepypasta” es un término que se utiliza para describir historias de terror, leyendas urbanas o narrativas de horror que se difunden en línea. Estas historias suelen ser ficticias y se comparten a través de plataformas como foros, redes sociales, blogs o sitios web especializados en este tipo de contenido.
-
+ <p align="center"> </p>
 La hibridación ocurre en la mezcla de elementos narrativos y estilísticos del creepypasta original con la estética y el formato característicos del género "found footage".
 
 También podemos ver hibridación en las dinámicas de creación y consumo de contenido, así como la formación de comunidades en torno a esta forma de expresión tanto de fanáticos de este submundo como creadores de contenido, aquí se puede ver como las redes sociales con el feedback de los usuarios, han expandido la historia original a través de ilustraciones, adaptaciones de video y otros medios. Esta participación activa y la creación de contenido adicional basado en el creepypasta también pueden considerarse una forma de hibridación, ya que fusiona la historia original con nuevas expresiones artísticas y medios de comunicación. 
@@ -30,12 +30,19 @@ Al presentar "The Backrooms" en formato de "found footage", se puede generar una
 
 En su obra "*El software toma el mando*", de Lev Manovich comenta una obra llamada "Crystal World” de Lislegaard (2006) en la que existe un cierto paralelismo con "The Backrooms". En los dos casos exploran la creación de mundos alternativos , lo desconocido y la fusión de elementos naturales y artificiales creando una nueva estética de híbridos.
 
+ <div>
+<p style = 'text-align:center;'>
+ 
+ <img src="image/adorno-miedo.png" alt="entidades" data-canonical-src="image/adorno-miedo.png"  width="20%" height="30%">
+</p>
+ <p>
+  </p>
+</div>
 Para concluir en una reciente entrevista *Lomeña, Andrés. (2020). El mundo digital según Lev Manovich: Una entrevista larga y duradera a este visionario*. En esta entrevista introduce un nuevo concepto de “escala” y comenta en la entrevista que:
  <blockquote>La nueva escala de la cultura se manifiesta tanto de forma online como en el mundo físico</blockquote>
  
 Pues en este caso ocurre lo mismo que comenta Manovich, podemos presenciar cómo una historia se expande y toma forma gracias a la colaboración de comunidades de creadores, que generan una historia comunitaria retroalimentada y en constante evolución.
 
- 
 
 <h3>Caso 2. Chamilo LMS</h3>   
  <p align="center">
