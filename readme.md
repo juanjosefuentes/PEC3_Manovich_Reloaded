@@ -44,7 +44,7 @@ En su obra "*El software toma el mando*", de Lev Manovich comenta una obra llama
 Para concluir en una reciente entrevista *Lomeña, Andrés. (2020). El mundo digital según Lev Manovich: Una entrevista larga y duradera a este visionario*. En esta entrevista introduce un nuevo concepto de “escala” y comenta en la entrevista que:
  <blockquote>La nueva escala de la cultura se manifiesta tanto de forma online como en el mundo físico</blockquote>
  
-Pues en este caso ocurre lo mismo que comenta Manovich, podemos presenciar cómo una historia se expande y toma forma gracias a la colaboración de comunidades de creadores, que generan una historia comunitaria retroalimentada y en constante evolución.
+Pues en este caso ocurre lo mismo que comenta Manovich, podemos presenciar cómo una historia se expande y toma forma gracias a la colaboración de comunidades de creadores, que generan una historia comunitaria retroalimentada y en constante evolución. Es complicado por no decir imposible seguir la cantidad de creaciones que aporta la comunidad.
 
 
 <h3>Caso 2. Chamilo LMS</h3>   
