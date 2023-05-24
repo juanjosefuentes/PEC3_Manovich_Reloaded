@@ -1,4 +1,4 @@
- <link rel="stylesheet" href="css/retro.css">
+ <link rel="stylesheet" href="CSS/retro.css">
   
 
  <h1 style="border:0;margin:0;padding:0; background-image:URL(image/fondo.jpg); color:black;     
