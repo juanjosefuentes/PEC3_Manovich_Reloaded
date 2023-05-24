@@ -14,7 +14,7 @@ Una vez visto el concepto de hibridación y unos ejemplos que creo son bastante 
 
  <h3>Caso 1. The Backrooms (Found Footage). </h3>
  <p align="center">
-<img src="image/Backrooms_mod.jpg"  width="60%" height="30%">
+ <img src="image/gif-video.gif"  width="50%" height="50%">
  
  </p>
     
