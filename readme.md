@@ -39,10 +39,8 @@ Para concluir en una reciente entrevista *Lomeña, Andrés. (2020). El mundo dig
  
 Pues en este caso ocurre lo mismo que comenta Manovich, podemos presenciar cómo una historia se expande y toma forma gracias a la colaboración de comunidades de creadores, que generan una historia comunitaria retroalimentada y en constante evolución.
 <details>
-    <summary><span>The Backrooms (Found Footage) Video completo</span>  </summary>   
-<video src="https://user-images.githubusercontent.com/16564273/125283630-9845d180-e2e6-11eb-8b7d-f30a8f2eae8a.mp4" data-canonical-src="https://user-images.githubusercontent.com/16564273/125283630-9845d180-e2e6-11eb-8b7d-f30a8f2eae8a.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
-
-  </video>
+    <summary><span>The Backrooms (Found Footage) 20 seg del video</span>  </summary>   
+    <img src="image/ezgif.com-gif-maker.gif"  width="60%" height="30%">
 </details>
 
 
