@@ -95,7 +95,7 @@ Estos casos ejemplifican cómo la hibridación impulsa la innovación y la creat
 
 <h2>Referencias adicionales</h2>
 
-[<span>Pixels, K. (2022). *The Backrooms (Found Footage)* . Recuperado de https://www.youtube.com/watch?v=H4dGpz6cnHo </span>](https://www.youtube.com/watch?v=H4dGpz6cnHo)
+[<span>Pixels, K. (2022). *The Backrooms (Found Footage)* . Recuperado de you tube </span>](https://www.youtube.com/watch?v=H4dGpz6cnHo)
 
 [<span>Brooker, W. (2019). Black Mirror: Bandersnatch . Netflix</span>](https://www.youtube.com/watch?v=VNw9DAwp2Kk)
 
