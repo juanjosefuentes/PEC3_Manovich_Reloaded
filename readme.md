@@ -3,7 +3,7 @@
 
 <h2> ¿Que es la Hibridación de Medios?</h2>
 
-Para empezar, es imprescindible introducir el [<span style="color:orange">concepto de hibridación</span>](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/), que va más allá de la simple multimedia. La hibridación implica la fusión de diferentes medios clásicos y nuevos, creando nuevas experiencias que coexisten y se amalgaman en una entidad singular creando una fusión que lo convierte en una nueva experiencia. 
+Para empezar, es imprescindible introducir el [<span style="color:orange">concepto de hibridación  (Ferran Adell)</span>](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/), que va más allá de la simple multimedia. La hibridación implica la fusión de diferentes medios clásicos y nuevos, creando nuevas experiencias que coexisten y se amalgaman en una entidad singular creando una fusión que lo convierte en una nueva experiencia. 
 
 Un ejemplo destacado de este concepto es la película [<span style="color:orange">Bandersnatch (2018)</span>](https://www.youtube.com/watch?v=VNw9DAwp2Kk), que incorpora elementos interactivos que transforman al espectador de un sujeto pasivo, en un participante activo en la construcción de la historia. Asimismo, en los videojuegos se utilizan cinemáticas estratégicamente para brindar coherencia narrativa, permitiendo al jugador experimentar la trama de manera activa asumiendo el papel protagonista desde la perspectiva de un actor, inmerso en la historia.
 
