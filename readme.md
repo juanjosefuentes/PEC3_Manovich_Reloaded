@@ -22,19 +22,16 @@ Una vez visto el concepto de hibridación y unos ejemplos, que creo son bastante
 
 “Creepypasta” es un término que se utiliza para describir historias de terror, leyendas urbanas o narrativas de horror que se difunden en línea. Estas historias suelen ser ficticias y se comparten a través de plataformas como foros, redes sociales, blogs o sitios web especializados en este tipo de contenido.
  
-La hibridación ocurre en la mezcla de elementos narrativos y estilísticos del creepypasta original con la estética y el formato característicos del género "found footage".
+La hibridación ocurre en la mezcla de elementos narrativos y estilísticos del creepypasta original con la estética y el formato característicos del género "found footage". El autor del video, al presentar "The Backrooms" en formato de "found footage", quiere generar una mayor sensación de inmersión y realismo para los espectadores. También el uso de imágenes de baja calidad, sonido ambiente perturbador y otros elementos característicos del género contribuye a la experiencia y puede intensificar el impacto emocional en comparación con la simple narración escrita del creepypasta. 
 
-También podemos ver hibridación en las dinámicas de creación y consumo de contenido, así como la formación de comunidades en torno a esta forma de expresión tanto de fanáticos de este submundo como creadores de contenido, aquí se puede ver como las redes sociales con el feedback de los usuarios, han expandido la historia original a través de ilustraciones, adaptaciones de video y otros medios.
-
-Esta participación activa y la creación de contenido adicional basado en el creepypasta también pueden considerarse una forma de hibridación, ya que fusiona la historia original con nuevas expresiones artísticas y medios de comunicación. 
-
-Al presentar "The Backrooms" en formato de "found footage", se puede generar una mayor sensación de inmersión y realismo para los espectadores. El uso de imágenes de baja calidad, sonido ambiente perturbador y otros elementos característicos del género contribuye a la experiencia y puede intensificar el impacto emocional en comparación con la simple narración escrita del creepypasta. 
+También podemos ver hibridación en las dinámicas de creación y consumo de contenido, así como la formación de comunidades en torno a esta forma de expresión tanto de fanáticos de este "submundo" como creadores de contenido. Aquí se puede ver como las redes sociales, con el feedback de los usuarios, han expandido la historia original a través de ilustraciones, adaptaciones de video y otros medios. Esta participación activa y la creación de contenido adicional basado en el creepypasta también pueden considerarse una forma de hibridación, ya que fusiona la historia original con nuevas expresiones artísticas y medios de comunicación. 
 
 En su obra "*El software toma el mando*", de Lev Manovich comenta una obra llamada "Crystal World” de Lislegaard (2006) en la que existe un cierto paralelismo con "The Backrooms". En los dos casos exploran la creación de mundos alternativos , lo desconocido y la fusión de elementos naturales y artificiales creando una nueva estética de híbridos.
 
-En el capítulo 3 de "The Language of New Media" de Lev Manovich, se pueden identificar varias estrategias de hibridación.
+Como conclusión y basandome en el capítulo 3 de "The Language of New Media" de Lev Manovich, se pueden identificar varias estrategias de hibridación.
 La forma de representar los personajes en "Backrooms" combina elementos de cómic y mapa. Esta mezcla de formatos visuales crea una representación híbrida que combina características de ambos medios. Además, se presenta una nueva forma de interacción con los medios a través de acertijos. Los usuarios pueden moverse de un lugar a otro del mundo dentro del juego mediante la resolución de acertijos, lo que añade una dimensión interactiva a la experiencia de juego.
- <div>
+
+<div>
 <p style = 'text-align:center;'>
 <img src="image/mostruo2.jpg" style="padding:40px;"  alt="entidades" data-canonical-src="image/adorno-miedo.png"  width="20%" height="30%">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="image/mostruo3.jpg" style="padding:40px;"  alt="entidades" data-canonical-src="image/adorno-miedo.png"  width="30%" height="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,7 +40,7 @@ La forma de representar los personajes en "Backrooms" combina elementos de cómi
 </p>
 </div>
  
-Para concluir en una reciente entrevista *Lomeña, Andrés. (2020). El mundo digital según Lev Manovich: Una entrevista larga y duradera a este visionario*. En esta entrevista introduce un nuevo concepto de “escala” y comenta en la entrevista que:
+En una reciente entrevista *Lomeña, Andrés. (2020). El mundo digital según Lev Manovich: Una entrevista larga y duradera a este visionario*. En esta entrevista introduce un nuevo concepto de “escala” y comenta en la entrevista que:
  <blockquote>La nueva escala de la cultura se manifiesta tanto de forma online como en el mundo físico</blockquote>
  
 Pues en este caso ocurre lo mismo que comenta Manovich, podemos presenciar cómo una historia se expande y toma forma gracias a la colaboración de comunidades de creadores, que generan una historia comunitaria retroalimentada y en constante evolución. Es complicado por no decir imposible seguir la cantidad de creaciones que aporta la comunidad.
