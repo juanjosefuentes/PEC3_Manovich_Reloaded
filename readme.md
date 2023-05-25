@@ -86,16 +86,18 @@ Estos casos ejemplifican cómo la hibridación impulsa la innovación y la creat
 
 <h2>Referencias</h2>
 
+[<span>Adell, F. (Año). Remediación, multimedia e hibridación de los medios. Nombre del sitio web. Recuperado de [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/]</span>](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 
-[<span>Lomeña, A. (2020). El mundo digital según Lev Manovich: Una entrevista larga y duradera a este visionario.</span>](https://www.huffingtonpost.es/entry/el-mundo-digital-segun-lev-manovich_es_5e2b365fc5b6d6767fd3a1f3.html)
+[<span>Lomeña, A. (2020). El mundo digital según Lev Manovich: Una entrevista larga y duradera a este visionario. Recuperado de [https://www.huffingtonpost.es/entry/el-mundo-digital-segun-lev-manovich_es_5e2b365fc5b6d6767fd3a1f3.html]</span>](https://www.huffingtonpost.es/entry/el-mundo-digital-segun-lev-manovich_es_5e2b365fc5b6d6767fd3a1f3.html)
 
 [<span>Manovich, L. (2013). El software toma el mando. Ediciones UOC.</span>](https://www.amazon.es/Software-toma-mando-UOCPress-Comunicaci%C3%B3n/dp/8490298637)
 
-[<span>Remedy Entertainment. (2016). Quantum Break [Videojuego]. Microsoft Windows, Xbox One</span>](https://www.xbox.com/es-ES/games/store/quantum-break/9nblggh6h0rv)
+
+[<span>Pixels, K. (2022). *The Backrooms (Found Footage)* . Recuperado de [https://www.youtube.com/watch?v=H4dGpz6cnHo] </span>](https://www.youtube.com/watch?v=H4dGpz6cnHo)
 
 <h2>Referencias adicionales</h2>
 
-[<span>Pixels, K. (2022). *The Backrooms (Found Footage)* . Recuperado de you tube </span>](https://www.youtube.com/watch?v=H4dGpz6cnHo)
+[<span>Remedy Entertainment. (2016). Quantum Break [Videojuego]. Microsoft Windows, Xbox One</span>](https://www.xbox.com/es-ES/games/store/quantum-break/9nblggh6h0rv)
 
 [<span>Brooker, W. (2019). Black Mirror: Bandersnatch . Netflix</span>](https://www.youtube.com/watch?v=VNw9DAwp2Kk)
 
