@@ -46,6 +46,8 @@ Para concluir en una reciente entrevista *Lomeña, Andrés. (2020). El mundo dig
  
 Pues en este caso ocurre lo mismo que comenta Manovich, podemos presenciar cómo una historia se expande y toma forma gracias a la colaboración de comunidades de creadores, que generan una historia comunitaria retroalimentada y en constante evolución. Es complicado por no decir imposible seguir la cantidad de creaciones que aporta la comunidad.
 
+En el capítulo 3 de "The Language of New Media" de Lev Manovich, se pueden identificar varias estrategias de hibridación en el caso de "Backrooms"
+La forma de representar los personajes en "Backrooms" combina elementos de cómic y mapa. Esta mezcla de formatos visuales crea una representación híbrida que combina características de ambos medios y se presenta una nueva forma de interacción con los medios a través de acertijos. Los usuarios pueden moverse de un lugar a otro del mundo dentro del juego mediante la resolución de acertijos, lo que añade una dimensión interactiva a la experiencia de juego
 
 <h3>Caso 2. Chamilo LMS</h3>   
  <p align="center">
