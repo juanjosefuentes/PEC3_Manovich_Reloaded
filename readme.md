@@ -79,9 +79,9 @@ Chamilo combina la simplicidad de uso con las funcionalidades avanzadas de un si
 
 <h2>Conclusión</h2>
 
-la hibridación es un fenómeno que trasciende los límites de los medios tradicionales y permite la creación de nuevas formas de expresión y experiencia. A través de la combinación de diferentes elementos, tecnologías y la participación activa de los usuarios, se generan experiencias híbridas que desafían las convenciones y enriquecen la cultura contemporánea. 
+La hibridación es un fenómeno que trasciende los límites de los medios tradicionales y permite la creación de nuevas formas de expresión y experiencia. A través de la combinación de diferentes elementos, tecnologías y la participación activa de los usuarios, se generan experiencias híbridas que desafían las convenciones y enriquecen la cultura contemporánea. 
 
-Estos casos ejemplifican cómo la hibridación impulsa la innovación y la creatividad en diversos ámbitos, abriendo nuevas posibilidades para la comunicación, el arte, el entretenimiento y la educación.
+Estos casos anteriores ejemplifican cómo la hibridación impulsa la innovación y la creatividad en diversos ámbitos, abriendo nuevas posibilidades para la comunicación, el arte, el entretenimiento y la educación.
 
 <h2>Referencias</h2>
 
