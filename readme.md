@@ -30,9 +30,11 @@ En  "*El software toma el mando*", de Lev Manovich comenta una obra llamada "Cry
 
 Como conclusión y basandome en el capítulo 3 de "The Language of New Media" de Lev Manovich, se pueden identificar varias estrategias de hibridación.
 La forma de representar los personajes en "Backrooms" combina elementos de cómic y mapa. Esta mezcla de formatos visuales crea una representación híbrida que combina características de ambos medios. Además, se presenta una nueva forma de interacción con los medios a través de acertijos. Los usuarios pueden moverse de un lugar a otro del mundo dentro del juego mediante la resolución de acertijos, lo que añade una dimensión interactiva a la experiencia de juego.
-Podemos ver algunas ilustraciones de la comunidad.
+
+Ha continuación podemos ver algunas ilustraciones de la comunidad.
+
 <div>
-<p style = 'text-align:center;'>Ilustraciones de la comunidad
+<p style = 'text-align:center;'>
 <img src="image/mostruo2.jpg" style="padding:40px;"  alt="entidades" data-canonical-src="image/adorno-miedo.png"  width="20%" height="30%">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="image/mostruo3.jpg" style="padding:40px;"  alt="entidades" data-canonical-src="image/adorno-miedo.png"  width="30%" height="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
