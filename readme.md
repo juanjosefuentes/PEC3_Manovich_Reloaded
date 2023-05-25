@@ -45,6 +45,7 @@ En una reciente entrevista *Lomeña, Andrés. (2020). El mundo digital según Le
  
 Pues en este caso ocurre lo mismo que comenta Manovich, podemos presenciar cómo una historia se expande y toma forma gracias a la colaboración de comunidades de creadores, que generan una historia comunitaria retroalimentada y en constante evolución. Es complicado por no decir imposible seguir la cantidad de creaciones que aporta la comunidad.
 
+Esta forma de creación social de contenidos seguramente sería abordada por Manovich. Es increíble el poder de la comunidad para generar contenido de una historia que difumina lo real y lo imaginario. Aunque es una tarea ingente debido a la cantidad de contenido, se pueden extraer conclusiones muy interesantes.
 
 <h3>Caso 2. Chamilo LMS</h3>   
  <p align="center">
